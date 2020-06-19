@@ -6,6 +6,11 @@ public class Juego {
     {
         int b = 3;
     }
+
+    public void terminar()
+    {
+        boolean termino = true;
+    }
 }
 
 
